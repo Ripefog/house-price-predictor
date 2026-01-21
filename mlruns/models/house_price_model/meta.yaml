@@ -1,0 +1,13 @@
+aliases: {}
+creation_timestamp: 1769007015531
+description: "Model for predicting house prices.\nAlgorithm: RandomForest\nHyperparameters:
+  {'bootstrap': True, 'ccp_alpha': 0.0, 'criterion': 'squared_error', 'max_depth':
+  20, 'max_features': 1.0, 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease':
+  0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf':
+  0.0, 'n_estimators': 100, 'n_jobs': None, 'oob_score': False, 'random_state': None,
+  'verbose': 0, 'warm_start': False}\nFeatures used: All features in the dataset except
+  the target variable\nTarget variable: price\nTrained on dataset: data/processed/featured_house_data.csv\nModel
+  saved at: models/trained/house_price_model.pkl\nPerformance metrics:\n  - MAE: 12541.88\n
+  \ - R²: 0.9916"
+last_updated_timestamp: 1769007015578
+name: house_price_model

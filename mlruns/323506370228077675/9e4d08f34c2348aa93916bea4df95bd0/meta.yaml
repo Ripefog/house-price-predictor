@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/323506370228077675/9e4d08f34c2348aa93916bea4df95bd0/artifacts
+end_time: 1769006944660
+entry_point_name: ''
+experiment_id: '323506370228077675'
+lifecycle_stage: active
+run_id: 9e4d08f34c2348aa93916bea4df95bd0
+run_name: GradientBoosting
+run_uuid: 9e4d08f34c2348aa93916bea4df95bd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769006942759
+status: 3
+tags: []
+user_id: lenovo

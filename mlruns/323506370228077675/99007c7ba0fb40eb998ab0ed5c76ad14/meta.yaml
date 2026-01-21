@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/323506370228077675/99007c7ba0fb40eb998ab0ed5c76ad14/artifacts
+end_time: 1769006939135
+entry_point_name: ''
+experiment_id: '323506370228077675'
+lifecycle_stage: active
+run_id: 99007c7ba0fb40eb998ab0ed5c76ad14
+run_name: LinearRegression
+run_uuid: 99007c7ba0fb40eb998ab0ed5c76ad14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769006937032
+status: 3
+tags: []
+user_id: lenovo
